@@ -15,7 +15,7 @@ such as page views, average time spent, and bounce rate.]
  Analyze these metrics and create visualizations (bar graphs, pie charts) to identify engagement trends.
  Suggest two strategies to increase the average time spent on the page based on your analysis.
 
-- [Task 3: Use “11 Best Solo Leveling Arcs in the Manhwa to Read Now” as a case study.]
+- [Use “11 Best Solo Leveling Arcs in the Manhwa to Read Now” as a case study.]
   Develop a report that outlines user segmentation based on demographics or behavior (e.g., age group,returning vs. new visitors) and 
   suggest ways to tailor content for these segments.
 
